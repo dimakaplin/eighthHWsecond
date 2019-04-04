@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="btn_ok">lang</string>
+    <string name="btn_ok_margin">margin</string>
+    <string name="hello_world">Hello world</string>
+
+    <string-array name="lang">
+        <item>Ру</item>
+        <item>En</item>
+    </string-array>
+    <string-array name="themes">
+        <item>1dp</item>
+        <item>3dp</item>
+        <item>10dp</item>
+    </string-array>
+</resources>
+
+

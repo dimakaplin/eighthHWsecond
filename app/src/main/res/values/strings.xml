@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Языки</string>
+    <string name="btn_ok">язык</string>
+    <string name="btn_ok_margin">отступы</string>
+    <string name="hello_world">Привет мир</string>
+
+    <string-array name="lang">
+        <item>Ру</item>
+        <item>En</item>
+    </string-array>
+    <string-array name="themes">
+        <item>1dp</item>
+        <item>3dp</item>
+        <item>10dp</item>
+    </string-array>
+</resources>
+
+
